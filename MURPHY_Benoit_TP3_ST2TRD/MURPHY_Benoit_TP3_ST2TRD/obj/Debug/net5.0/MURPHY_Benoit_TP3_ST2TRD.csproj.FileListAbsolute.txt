@@ -1,0 +1,15 @@
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/obj/Debug/net5.0/MURPHY_Benoit_TP3_ST2TRD.csprojAssemblyReference.cache
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/obj/Debug/net5.0/MURPHY_Benoit_TP3_ST2TRD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/obj/Debug/net5.0/MURPHY_Benoit_TP3_ST2TRD.AssemblyInfoInputs.cache
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/obj/Debug/net5.0/MURPHY_Benoit_TP3_ST2TRD.AssemblyInfo.cs
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/obj/Debug/net5.0/MURPHY_Benoit_TP3_ST2TRD.csproj.CoreCompileInputs.cache
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/bin/Debug/net5.0/MURPHY_Benoit_TP3_ST2TRD.deps.json
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/bin/Debug/net5.0/MURPHY_Benoit_TP3_ST2TRD.runtimeconfig.json
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/bin/Debug/net5.0/MURPHY_Benoit_TP3_ST2TRD.runtimeconfig.dev.json
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/bin/Debug/net5.0/MURPHY_Benoit_TP3_ST2TRD.dll
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/bin/Debug/net5.0/ref/MURPHY_Benoit_TP3_ST2TRD.dll
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/bin/Debug/net5.0/MURPHY_Benoit_TP3_ST2TRD.pdb
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/obj/Debug/net5.0/MURPHY_Benoit_TP3_ST2TRD.dll
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/obj/Debug/net5.0/ref/MURPHY_Benoit_TP3_ST2TRD.dll
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/obj/Debug/net5.0/MURPHY_Benoit_TP3_ST2TRD.pdb
+/Users/spade/RiderProjects/MURPHY_Benoit_TP3_ST2TRD/MURPHY_Benoit_TP3_ST2TRD/obj/Debug/net5.0/MURPHY_Benoit_TP3_ST2TRD.genruntimeconfig.cache

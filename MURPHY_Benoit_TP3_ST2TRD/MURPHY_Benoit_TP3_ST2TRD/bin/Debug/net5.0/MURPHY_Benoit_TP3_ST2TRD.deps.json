@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MURPHY_Benoit_TP3_ST2TRD/1.0.0": {
+        "runtime": {
+          "MURPHY_Benoit_TP3_ST2TRD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MURPHY_Benoit_TP3_ST2TRD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
